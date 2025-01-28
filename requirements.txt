@@ -7,7 +7,6 @@ matplotlib
 seaborn 
 googletrans==4.0.0-rc1
 deep-translator
-langdetect
-nltk
-nltk.corpus 
+langdetect == 1.0.9
+nltk == 3.9.1 
 re
