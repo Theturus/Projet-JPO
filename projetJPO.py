@@ -9,7 +9,7 @@ from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 from collections import Counter
 from deep_translator import GoogleTranslator
-from langdetect import detect
+# from langdetect import detect
 import nltk
 from nltk.corpus import stopwords
 import re
