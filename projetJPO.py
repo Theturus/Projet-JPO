@@ -26,7 +26,7 @@ import lyricsgenius
 # Étape 2 : Configuration des clés API
 SPOTIFY_CLIENT_ID = "96a695d876914d709d1644eca8be9e32"
 SPOTIFY_CLIENT_SECRET = "7571e5745d264574836f9073f689d086"
-GENIUS_API_KEY = "IE-umvWO_0Q3yUjoe8B5ReXwim4DUuzeV0mrg2NVwDcJIErP63Q1imzUV1TVsRSR"
+GENIUS_API_KEY = "gKrQCTwBqtS-uUsziG_5dZX407uh95gCfuzu7VBR688qGNt3Aqqg56211UktMZQE"
 
 # Initialisation des clients API
 spotify = spotipy.Spotify(auth_manager=SpotifyClientCredentials(
